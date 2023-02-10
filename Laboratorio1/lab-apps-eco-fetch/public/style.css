@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: rgb(238,174,202);
+}
+
+h1, h3{
+    color: rgb(128, 1, 139);
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    color: rgb(48, 0, 53);
+    margin: 10px;
+    text-align: center;
+}
+
+button{
+    border: solid 2px rgb(236, 124, 199);
+    background-color: rgb(245, 166, 209);
+    color: rgb(160, 50, 179);
+    padding: 1vh 1vw;
+    border-radius: 6px;
+    transition-duration: 0.4s;
+      cursor: pointer;
+}
+
+render{
+    color: rgb(48, 0, 53);
+    margin: 10px;
+    text-align: center;
+}
+
